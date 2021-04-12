@@ -1,14 +1,17 @@
-# PROJECT NAME
+# Hotel Manage API
 
 ## Project Description
-
-Here goes your awesome project description!
+Hotel Manage API is a hotel booking system API for employees and clients to check out rooms and implement other hotel activities such as room service. Employees will be able to complete administrative tasks. While customers will have a platform for complete control over their stay. Multiple applications will be combined in a seamless manner.
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Java
+* PostgreSql
+* Spring Framework
+* JMS 
+* REST
+* SOAP
+* JDBC
 
 ## Features
 
